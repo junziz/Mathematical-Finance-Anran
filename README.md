@@ -1,2 +1,2 @@
-# Mathematical-Finance-Anran
+# Mathematical-Finance-Reading
 Mathematical Finance Literature Reading
